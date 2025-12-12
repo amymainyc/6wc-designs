@@ -1,0 +1,746 @@
+Banner Generation Processing Results
+Generated: Fri Dec 12 2025 00:15:03 GMT-0500
+============================================================
+
+Username: raybean
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: gamicrayola
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: MirageFire
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Filoxen
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: willwam
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: pericrayola
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: renyoo
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: FrauOn
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Ruan Mei
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Timper
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: ScubDomino
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: NO
+
+Username: Aracium
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: NO
+
+Username: Ffrequence
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: munamu
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: NyuPenyu
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Aquatic
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: NO
+
+Username: sponny
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: NO
+
+Username: nemo
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: kyermaniac
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Zeth
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Arushii
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Vertusilly
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: NO
+
+Username: Febbs!
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: motion.less
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: NO
+
+Username: Uknowe
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: WindWolfy
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: hyin
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: raybean
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: rrex
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Nightingale
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: kawaizem
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Nayeon
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Lightin
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Hoyin
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: reforna
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Luminous Sky
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Flare_Drake
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Dragonfire0512
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: AsheBradley
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Saemi
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: WheelsWaz
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: fleuphy
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: NO
+
+Username: Argyle
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Emerald Ages
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Mikelito
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: TOPXVLAD
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Simabuco
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: oregue
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Garvil
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: arctice
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Caveman
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Irumi
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: jolty
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Louis Marble
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Menajis6
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: shortkid27
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: AruOtta
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: dxprxsslve
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: quantumvortex
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Feiri
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Kagetora.
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: NO
+
+Username: sugosugiii
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: F-777
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: DawMii
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: SJ68
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: NO
+
+Username: Eraser
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: OfficialAz3
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: prodii
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: ArXe
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: nantokanaru
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: NO
+
+Username: jykca
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Kyle Y
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: KiuL
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: plork
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Whithard
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Share
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: LycaonMyHusband
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: CebollaVladimir
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Castagne
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Ixcors
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Rtyzen
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Shiny Braixen
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Creepattack
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Ducky-
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Soraka
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: alvearia
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Amefystol
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: JayAreEee
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Astronic
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Plasma
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: v0x
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: _necroplasma
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Megafan
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Aeril
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Blacky Design
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: minticecream_
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: ralsricat
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Amamya Kokoro
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: PukPow
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: nominomu
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: hamano
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Cocoyu
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: 9ami
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: 0ppInOsu
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: my angel nakuru
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: - Kubii -
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: WoodenPickaxe
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Crystria
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: ellen-
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: AverageHDPlayer
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Joryan
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Pixtort
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: NO
+
+Username: Gaelxd
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: BurgerKing
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Skividos
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: NO
+
+Username: GranXso
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Maiji
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Exairia
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: foxy1919191919
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: BeZonaurul
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: NO
+
+Username: Froonen
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: NO
+
+Username: MokkingJay
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: YES
+
+Username: Staori
+  Status: SUCCESS
+  Name updated: YES
+  Role updated: YES
+  PFP updated: NO
+
+============================================================
+Total processed: 123
+Successful: 123
+Failed: 0
