@@ -297,6 +297,11 @@
                     roleTextDoc.fillColor = roleFillColor;
                     roleTextProp.setValue(roleTextDoc);
                     
+                    // Turn off the box if it's the same role as previous
+                    if (lineIdx > 0 && roleLine === roleLines[lineIdx - 1]) {
+                        roleLayer.enabled = false;
+                    }
+                    
                     // Position role layer at same X as original, Y offset by line index
                     var roleLayerRect = roleLayer.sourceRectAtTime(0, false);
                     // Use the original position directly
@@ -498,7 +503,7 @@
             // This entry has: role1=designer, maps1 with 2 entries, maps2 with 4 entries
             var testEntry = null;
             for (var i = 0; i < data.length; i++) {
-                if (data[i].username === "raybean") {
+                if (data[i].username === "alvearia") {
                     testEntry = data[i];
                     break;
                 }
@@ -534,16 +539,27 @@
             writeResultsLog();
             
             
-            // FULL MODE: Uncomment this block to process all entries
+            // FULL MODE: Uncomment this block to process all entries ---------------------------
+
             for (var i = 0; i < data.length; i++) {
-                try {
-                    var result = processEntry(data[i]);
-                    processingResults.push(result);
-                } catch (e) {
-                    processingResults.push({success: false, username: data[i].username, error: e.toString()});
-                    log("Error processing " + data[i].username + ": " + e.toString());
+                // TODO: check if data[i].username is in output_generated folder already, skip if so
+                var to_be_rendered = new Folder(projectFolder.fsName + "/to_be_generated");
+                var outputFileCheck = new File(to_be_rendered.fsName + "/" + data[i].username + ".mp4");
+                if (outputFileCheck.exists) {
+                        try {
+                            var result = processEntry(data[i]);
+                            processingResults.push(result);
+                        } catch (e) {
+                            processingResults.push({success: false, username: data[i].username, error: e.toString()});
+                            log("Error processing " + data[i].username + ": " + e.toString());
+                        }
+                    }
                 }
-            }
+
+                
+
+            //------------------------------------------------------------------------------------
+            
             writeResultsLog();
             log("Done! Generated " + data.length + " banners.");
             
