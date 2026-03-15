@@ -1,3 +1,4 @@
+# .\render_banners.ps1
 $aepFolder = "C:\Users\amyma\Documents\PhotoShop\6WC\staff-banners\to_be_rendered"
 $outputFolder = "C:\Users\amyma\Documents\PhotoShop\6WC\staff-banners\output"
 $aerender = "C:\Program Files\Adobe\Adobe After Effects 2025\Support Files\aerender.exe"

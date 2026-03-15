@@ -501,51 +501,51 @@
             
             // TEST MODE: Only process the most complex entry (raybean)
             // This entry has: role1=designer, maps1 with 2 entries, maps2 with 4 entries
-            var testEntry = null;
-            for (var i = 0; i < data.length; i++) {
-                if (data[i].username === "alvearia") {
-                    testEntry = data[i];
-                    break;
-                }
-            }
+            // var testEntry = null;
+            // for (var i = 0; i < data.length; i++) {
+            //     if (data[i].username === "alvearia") {
+            //         testEntry = data[i];
+            //         break;
+            //     }
+            // }
             
-            if (testEntry) {
-                log("\n=== TEST MODE: Processing single entry ===");
-                log("Username: " + testEntry.username);
-                log("Role1: " + testEntry.role1);
-                log("Role2: " + testEntry.role2);
-                log("Maps1: " + testEntry.maps1);
-                log("Maps2: " + testEntry.maps2);
-                log("");
+            // if (testEntry) {
+            //     log("\n=== TEST MODE: Processing single entry ===");
+            //     log("Username: " + testEntry.username);
+            //     log("Role1: " + testEntry.role1);
+            //     log("Role2: " + testEntry.role2);
+            //     log("Maps1: " + testEntry.maps1);
+            //     log("Maps2: " + testEntry.maps2);
+            //     log("");
                 
-                // Preview what the role text will look like
-                var previewData = formatRoleText(testEntry.role1, testEntry.role2, testEntry.maps1, testEntry.maps2);
-                log("Role text preview (30px):\n" + previewData.roleText);
-                log("\nMaps text preview (14px):\n" + previewData.mapText);
-                log("");
+            //     // Preview what the role text will look like
+            //     var previewData = formatRoleText(testEntry.role1, testEntry.role2, testEntry.maps1, testEntry.maps2);
+            //     log("Role text preview (30px):\n" + previewData.roleText);
+            //     log("\nMaps text preview (14px):\n" + previewData.mapText);
+            //     log("");
                 
-                var success = processEntry(testEntry);
+            //     var success = processEntry(testEntry);
                 
-                if (success.success) {
-                    processingResults.push(success);
-                    log("\n=== SUCCESS ===\nGenerated banner for: " + testEntry.username);
-                    log("Output saved to: " + outputFolder.fsName + "/" + testEntry.username + ".aep");
-                }
-            } else {
-                throw new Error("Could not find test entry in CSV");
-            }
+            //     if (success.success) {
+            //         processingResults.push(success);
+            //         log("\n=== SUCCESS ===\nGenerated banner for: " + testEntry.username);
+            //         log("Output saved to: " + outputFolder.fsName + "/" + testEntry.username + ".aep");
+            //     }
+            // } else {
+            //     throw new Error("Could not find test entry in CSV");
+            // }
             
-            // Write results to log file
-            writeResultsLog();
+            // // Write results to log file
+            // writeResultsLog();
             
             
             // FULL MODE: Uncomment this block to process all entries ---------------------------
 
             for (var i = 0; i < data.length; i++) {
-                // TODO: check if data[i].username is in output_generated folder already, skip if so
-                var to_be_rendered = new Folder(projectFolder.fsName + "/to_be_generated");
-                var outputFileCheck = new File(to_be_rendered.fsName + "/" + data[i].username + ".mp4");
-                if (outputFileCheck.exists) {
+                // render if not rendered already
+                var output_rendered = new Folder(projectFolder.fsName + "/output_rendered");
+                var outputFileCheck = new File(output_rendered.fsName + "/" + data[i].username + ".mp4");
+                if (!outputFileCheck.exists) {
                         try {
                             var result = processEntry(data[i]);
                             processingResults.push(result);
